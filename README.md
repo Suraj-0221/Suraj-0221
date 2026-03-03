@@ -4,12 +4,6 @@
 - 🔭 **I’m currently working on:** Physics Informed Machine Learning Project
 - 📫 **How to reach me:** surajjaman0221@gmail.com.com
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suraj-0221&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&custom_title=Stasts" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Suraj-0221&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
 
 ###
 
